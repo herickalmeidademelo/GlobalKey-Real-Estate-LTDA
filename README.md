@@ -5,5 +5,4 @@
 <li>Favicon adicionado para mais personalização</li>
 <li>Correção na responsidade do cabeçalho: Agora, está 100% responsível para todas as telas</li>
 <li>Atualização no favicon</li> <br>
-<li>Correção na responsidade do cabeçalho: Agora, está 100% responsível para todas as telas</li> <br>
 <p>Estarei atualizando o site constantimente. Caso queira acompanhar, cheque o README de vez enquanto. Obrigado!</p>
