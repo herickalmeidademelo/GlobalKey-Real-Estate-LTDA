@@ -7,4 +7,4 @@
 <li>Atualização no favicon</li>
 <li>Adicionado um texo de impacto no corpo do site com um botão de ação</li>
 <li>Implementação de media query para maior responsidade ao site</li> <br>
-<p>Estarei atualizando o site constantimente. Caso queira acompanhar, cheque o README de vez enquanto. Obrigado!</p>
+<p>Estarei atualizando o site constantimente. Caso queira acompanhar, cheque o README de vez enquando. Obrigado!</p>
