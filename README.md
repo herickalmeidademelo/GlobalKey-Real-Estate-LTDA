@@ -5,4 +5,6 @@
 <li>Favicon adicionado para mais personalização</li>
 <li>Correção na responsidade do cabeçalho: Agora, está 100% responsível para todas as telas</li>
 <li>Atualização no favicon</li> <br>
+<li>Adicionado um texo de impacto no corpo do site com um botão de ação</li>
+<li>Implementação de media query para maior responsidade ao site</li>
 <p>Estarei atualizando o site constantimente. Caso queira acompanhar, cheque o README de vez enquanto. Obrigado!</p>
