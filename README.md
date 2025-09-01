@@ -3,5 +3,5 @@
 <h2>Acesse o <a href='https://68b503aa7223a637d329e72c--globalkey.netlify.app/'/a>Site</h2> <br>
   <ul>Atualizações</ul>
 <li>Favicon adicionado para mais personalização</li>
-<li>Correção na responsidade do cabeçalho: Agora, está 100% responsível para todas as telas/li> <br>
+<li>Correção na responsidade do cabeçalho: Agora, está 100% responsível para todas as telas</li> <br>
 <p>Estarei atualizando o site constantimente. Caso queira acompanhar, cheque o README de vez enquanto. Obrigado!</p>
