@@ -1,3 +1,7 @@
-<h1> Projeto de landing page GlobalKey Real Estate LTDA </h1 <br>
+<h1> Projeto de landing page GlobalKey Real Estate LTDA (empresa fictícia) </h1 <br>
+<h2> A finalidade deste projeto é inspirar a minha criatividade, mostrar minhas habilidades e principalmente servir como experiência para meu portifólio. <br> Este projeto tem como base HTML, CSS e Bootstrap. Para mais dinâmica, irei acrescentar Javascript, em breve.</h2>
 <h2>Acesse o <a href='https://68b503aa7223a637d329e72c--globalkey.netlify.app/'/a>Site</h2> <br>
-<li>Status: Em andamento</li>
+  <ul>Atualizações</ul>
+<li>Favicon adicionado para mais personalização</li>
+<li>Correção na responsidade do cabeçalho: Agora, está 100% responsível para todas as telas/li> <br>
+<h2>Estarei atualizando o site constantimente. Caso queira acompanhar, cheque o README de vez enquanto. Obrigado!</h2>
